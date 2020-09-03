@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React apps, getting better at design, learning Go, and getting better at Java and Python.
 - 📫 Reach out to me and check out my stuff: [LinkedIn](https://www.linkedin.com/in/bobbyad/) | [Portfolio](https://bobbyad.dev/)
-- If you're looking to hire a dedicated learner, a hard worker, or a tech enthusiast, send me a message! I'm currently on the job hunt!
+- ⚡ If you're looking to hire a dedicated learner, a hard worker, or a tech enthusiast, send me a message! I'm currently on the job hunt!
 
 ## Current Projects
 
